@@ -32,9 +32,9 @@ Now, with your new and fresh "I didnt need to learn this but I did anyways" know
 Sorting goes like this, take your "meme theme" and try and think of a scrape-based name! 
 
 > [!TIP] 
-> In my terms "scrape-based" or "surface level" are terms where you take a "scrape" on the surface understanding, for somthing!\
-> Or in other words, take a very quick "glaze" of somthing, like an image, and make a really quick description for it! only a few words long.\
-> <sub>(I actually made the term "scrape-" somthing 〜(￣▽￣〜) )</sub>
+> In my terms, "scrape-based" (aka "surface level") is a term where you take a "scrape" on the surface understanding for somthing!\
+> Or in other words, take a very quick "glaze" of somthing; like an image, and make a really quick description for it! only a few words long.\
+> <sub>(I actually made the term "scrape-glaze"/"scrape-based" 〜(￣▽￣〜) )</sub>
 
 After you've found your "scrape-name", go and look for it! If youre like me, there is probobally a folder named that "scrape-mame"!
 
