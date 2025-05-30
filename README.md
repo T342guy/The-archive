@@ -1,4 +1,4 @@
-> [!TIP]
+> [!WARNING]
 > ***THIS README IS STILL WIP! IT MAY NOT MAKE SENSE, WORDING MAY BE OFF, OR OUT-OF-FLOW!***\
 # Welcome to: The-archive
 
