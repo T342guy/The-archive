@@ -13,7 +13,7 @@
 Hello Hello everyone!\
 Welcome to: ***The archive***
 
-What is the archive? you may ask.\
+What is *the archive*?\
 The archive is a github repo that holds all of the memes, videos, files, and other things that I have collected over the years!\
 <sub>And as a passive second, it makes it so that i will never loose any meme, video, file or other in the event my PC's hard drive decides to commit sudo 〜(￣▽￣〜)</sub>
 
@@ -24,6 +24,14 @@ Any of you can take, download, or do whatever with these memes! they arnt mine, 
 ## How to find something in here!
 
 > [!TIP] 
-> Everything is sorted and assorted! you may need to look more then once! 
+> Everything is sorted and assorted, you may need to look more then once! 
 
 Sorting in this repo goes has catagories and lots, *lots*, of folders.\
+If youre looking for memes, the filepath (aka "path") can look like this: `root/memes/<topic>/<meme>`!\ 
+Maybe a game clip? or a game screenshot? The filepath can look like this! `root/Game-clips-and-screenshots/<game>/<screenshots/clips>/<clip or screenshot>`!\
+and so and so fourth!\ 
+
+
+
+> [!NOTE] 
+> If youve seen a `e.txt` around here, thats just a blank file so i can make the folders ( •̀ ω •́ )y
