@@ -1,6 +1,14 @@
 > [!TIP]
 > ***THIS README IS STILL WIP! IT MAY NOT MAKE SENSE, WORDING MAY BE OFF, OR OUT-OF-FLOW!***\
-# The-archive
+# Welcome to: The-archive
+
+<div align="left">
+	<p>
+<object>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/T342guy/The-archive">
+</object>
+	</p>
+</div>
 
 Hello Hello everyone!\
 Welcome to: ***The archive***
