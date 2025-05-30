@@ -27,9 +27,9 @@ Any of you can take, download, or do whatever with these memes! they arnt mine, 
 > Everything is sorted and assorted, you may need to look more then once! 
 
 Sorting in this repo goes has catagories and lots, *lots*, of folders.\
-If youre looking for memes, the filepath (aka "path") can look like this: `root/memes/<topic>/<meme>`!\ 
+If youre looking for memes, the filepath (aka "path") can look like this: `root/memes/<topic>/<meme>`!\
 Maybe a game clip? or a game screenshot? The filepath can look like this! `root/Game-clips-and-screenshots/<game>/<screenshots/clips>/<clip or screenshot>`!\
-and so and so fourth!\ 
+and so and so fourth!
 
 
 
